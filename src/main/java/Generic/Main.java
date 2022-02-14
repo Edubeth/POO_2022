@@ -2,9 +2,9 @@ package Generic;
 
 public class Main {
     public static void main (String [] args) {
-        GenericTupla<Integer, String> point1 = new GenericTupla<>(1, "Elizabeth");
-        GenericTupla<Integer, String> point2 = new GenericTupla<>(2, "Elizabeth");
-        ObjectTupla objTuple = new ObjectTupla(3, "Damara");
+        GenericTupla<Integer, String> point1 = new GenericTupla<>(28 "Elizabeth");
+        GenericTupla<Integer, String> point2 = new GenericTupla<>(28 "Elizabeth");
+        ObjectTupla objTuple = new ObjectTupla(21, "Edubeth
         boolean isEqual = Utilities.compare(point1, point2);
         System.out.println(point1);
         System.out.println(point2);
